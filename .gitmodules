@@ -1,0 +1,3 @@
+[submodule "SCADA_Warehouse"]
+	path = SCADA_Warehouse
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/SCADA_Warehouse.git
