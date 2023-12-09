@@ -1,3 +1,6 @@
 [submodule "SCADA_Warehouse"]
 	path = SCADA_Warehouse
 	url = git@github.com:Tu-Gia-ThinhNGUYEN/SCADA_Warehouse.git
+[submodule "Webserver_Warehouse"]
+	path = Webserver_Warehouse
+	url = git@github.com:Tu-Gia-ThinhNGUYEN/Webserver_Warehouse.git
