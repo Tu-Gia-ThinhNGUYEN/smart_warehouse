@@ -21,7 +21,7 @@ Link of webserver is here: https://meca-spksalt.web.app/
 
 Preview of website:
 
-![SCADA](/images/Web capture_7-5-2022_20513_127.0.0.1.jpeg)
+![SCADA](/images/Web_capture_7-5-2022_20513_127.0.0.1.jpeg)
 
 ## 2.3 Overview of all systems
 
