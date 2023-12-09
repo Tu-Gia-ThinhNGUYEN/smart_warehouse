@@ -25,4 +25,6 @@ Preview of website:
 
 ## 2.3 Overview of all systems
 
+System includes hardware sub-system with 2 sides conctrolled by PLC iQ-R R04EN of Mitsubishi Electric. SCADA system connect to PLC and Webserver which can be supervise through the internet.
+
 ![SCADA](/images/Model.png)
